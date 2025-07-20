@@ -39,4 +39,4 @@
 | Full offline mobile deployment         | ⏳ Planned (Target: July 2026) |
 
 - - -
-
+also if you wanna use this don't forget to use ollama and pull phi_2.
